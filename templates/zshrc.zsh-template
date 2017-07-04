@@ -49,7 +49,7 @@ ZSH_THEME="mishamx"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git osx ruby python vagrant yii history docker docker-compose composer brew gem npm)
+plugins=(git osx ruby python vagrant yii history docker docker-compose composer brew gem npm golang osx rbenv yii2)
 
 # User configuration
 
